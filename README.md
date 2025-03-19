@@ -5,7 +5,22 @@ This is my rewrite to better understand Gameplay Ability System. I rewrote it in
 
 I didn't like the formatting and noticed it was MIT Licensed, so this is too. Feel free to modify it.
 
-## Using this Git Repo
+
+
+## Tranek's GASDocumentation Intro
+My understanding of Unreal Engine 5's GameplayAbilitySystem plugin (GAS) with a simple multiplayer sample project. This is not official documentation and neither this project nor myself are affiliated with Epic Games. I make no guarantee for the accuracy of this information.
+
+The goal of this documentation is to explain the major concepts and classes in GAS and provide some additional commentary based on my experience with it. There is a lot of 'tribal knowledge' of GAS among users in the community and I aim to share all of mine here.
+
+The Sample Project and documentation are current with **Unreal Engine 5.3** (UE5). There are branches of this documentation for older versions of Unreal Engine, but they are no longer supported and are liable to have bugs or out of date information. Please use the branch that matches your engine version.
+
+[GASShooter](https://github.com/tranek/GASShooter) is a sister Sample Project demonstrating advanced techniques with GAS for a multiplayer FPS/TPS.
+
+The best documentation will always be the plugin source code.
+
+>Not sure I agree, but about to dive in myself, so I guess I'll see lol
+
+# Using this Git Repo
 Now that *Obsidian* has gone free to work, I feel comfortable posting this as it's entire *Obsidian Vault*. 
 
 That said, you can utilize this vault as it's *markdown* only.
@@ -51,16 +66,3 @@ They all seem to be git repos if you do have an issue you'd like to file -- or i
 - *Slash Commander* - Allows commands from `/`, very nice for quick spawning of tables, callouts, etc.
 - *Git* - for using a *Git Repository*
 
-
-# Tranek's GASDocumentation Intro
-My understanding of Unreal Engine 5's GameplayAbilitySystem plugin (GAS) with a simple multiplayer sample project. This is not official documentation and neither this project nor myself are affiliated with Epic Games. I make no guarantee for the accuracy of this information.
-
-The goal of this documentation is to explain the major concepts and classes in GAS and provide some additional commentary based on my experience with it. There is a lot of 'tribal knowledge' of GAS among users in the community and I aim to share all of mine here.
-
-The Sample Project and documentation are current with **Unreal Engine 5.3** (UE5). There are branches of this documentation for older versions of Unreal Engine, but they are no longer supported and are liable to have bugs or out of date information. Please use the branch that matches your engine version.
-
-[GASShooter](https://github.com/tranek/GASShooter) is a sister Sample Project demonstrating advanced techniques with GAS for a multiplayer FPS/TPS.
-
-The best documentation will always be the plugin source code.
-
->Not sure I agree, but about to dive in myself, so I guess I'll see lol
