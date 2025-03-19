@@ -5,7 +5,11 @@ This is my rewrite to better understand Gameplay Ability System. I rewrote it in
 
 I didn't like the formatting and noticed it was MIT Licensed, so this is too. Feel free to modify it.
 
-
+## To Do:
+- [] Look into the uproject. I literally forgot there is one in this repo too, not just the sister *Sample Project*
+- [] Graft my existing Obsidian Vault into a good spot / move the uproject into it's own thing
+- [] Go through reading all the code and check off all my questions about what is verbatim code snippet and what is just using ` for concepts (formatting stuff)
+>Honestly my attitude about documentation is that you can learn the concepts before looking at code, idk - I think I'd rather the docs it with code snippets.
 
 ## Tranek's GASDocumentation Intro
 My understanding of Unreal Engine 5's GameplayAbilitySystem plugin (GAS) with a simple multiplayer sample project. This is not official documentation and neither this project nor myself are affiliated with Epic Games. I make no guarantee for the accuracy of this information.
