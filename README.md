@@ -5,6 +5,51 @@ This is my rewrite to better understand Gameplay Ability System. I rewrote it in
 
 I didn't like the formatting and noticed it was MIT Licensed, so this is too. Feel free to modify it.
 
+## Using this Git Repo
+Now that *Obsidian* has gone free to work, I feel comfortable posting this as it's entire *Obsidian Vault*. 
+
+That said, you can utilize this vault as it's *markdown* only.
+
+- Since plugins are preference, I did not ship this with them enabled. 
+	- It's up to you.
+### How to Use Markdown
+- Step by step: [Markdown Tutorial](https://www.markdowntutorial.com/)
+- Video in English with Cheat Sheet: [The Only Markdown Crash Course You Will Ever Need - YouTube](https://youtu.be/_PPWWRV6gbA)
+	- This tutorial uses another program
+
+### How to Use Obsidian
+
+#### Full Tutorials
+[Obsidian: The King of Learning Tools (FULL GUIDE + SETUP) - YouTube](https://youtu.be/hSTy_BInQs8)
+- I like how this tutorial is self aware about how complicated it can get
+- Also talks about how to gain traction with writing / thinking with more advanced topics
+
+#### Core Concepts
+>Enough hopefully to get you started.
+- A *root folder* is the base folder's "inside", where files and more folders are stored.
+- An *Obsidian Vault* is the *root folder* for whatever you are working on.
+- You can have as many Vaults as you want
+	- You can Sync them with their paid service
+	- Or you can use the *Git Plugin* (Community)
+	- Apple Devices have the option to use *iCloud* (Core)
+- A *Workspace* is saved Tabs / Windows on your Computer (Desktop)
+#### Core Plugins
+- This Vault uses *File Properties* to deal with tags.
+- I use the *Graph View* to help organize with 
+- Personally, I'd disable *Page Preview* 
+- *Workspaces* are from the *Workspace Plugin*
+
+#### Community Plugins (Recommended)
+I don't want to link these, since you should just go to Settings and install them there. 
+
+They all seem to be git repos if you do have an issue you'd like to file -- or if you want to help with their codebase.
+
+- *Vertical Tabs* - My preferred workflow / workspace management
+- *Tag Wrangler* - Allows mass renaming of tags, etc.
+- *Advanced Tables* - Smoother dealing with tables. 
+	- Handles to move things around are really nice.
+- *Slash Commander* - Allows commands from `/`, very nice for quick spawning of tables, callouts, etc.
+- *Git* - for using a *Git Repository*
 
 
 # Tranek's GASDocumentation Intro
