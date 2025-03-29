@@ -5,7 +5,7 @@ This is my rewrite to better understand Gameplay Ability System. I rewrote it in
 
 I didn't like the formatting and noticed it was MIT Licensed, so this is too. Feel free to modify it.
 
-
+The Obsidian Vault folder to open is `GASDocs`, after your repository clone completes.
 
 # Tranek's GASDocumentation Intro
 My understanding of Unreal Engine 5's GameplayAbilitySystem plugin (GAS) with a simple multiplayer sample project. This is not official documentation and neither this project nor myself are affiliated with Epic Games. I make no guarantee for the accuracy of this information.
