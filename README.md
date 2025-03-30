@@ -13,6 +13,7 @@ Since this is a fork, I put the original uproject in it's own folder.
 3. Launch the application, and choose to open an existing folder as a *vault*.
 4. Choose the "GASDocs" folder.
 5. Allow / install plugins as you require (optional)
+6. (Optional) I picked a theme that has italics in another color. An MIT Licensed one is [Obsidian Nord](https://github.com/insanum/obsidian_nord). My customized version's light mode is not ready.
 
 ### How to Use Markdown
 - Step by step: [Markdown Tutorial](https://www.markdowntutorial.com/)
